@@ -6,7 +6,7 @@ The **Email/SMS Spam Classifier** project is designed to accurately distinguish 
 
 ## How It Works ⚙️
 - The system processes incoming emails or SMS texts.
-- It identifies common **spam keywords** such as "**pay**, **won**" and distinguishes them from **ham** keywords like "**hey**, **how are you**."
+- It identifies common **spam keywords** such as "**pay**, **won**" and distinguishes them from **ham** keywords like "**hey**, **how**."
 - The classifier then uses the **Naive Bayes algorithm** to analyze the text and determine whether the message is spam or ham.
 
 ## Features 🌟
